@@ -1,0 +1,5 @@
+{{#user}}
+Name: Prateek Sinha
+Skills: PYTHON(NUMPY, PANDAS, MATPLOTLIB,SCIKIT LEARN), CPP
+Email: prateek.sinha.22@aot.edu.in
+{{/user}}
